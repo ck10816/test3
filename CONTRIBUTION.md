@@ -10,7 +10,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 > - Tweet about it
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
-
+AKIAXYSPDBPKXDCOVA0U
 ## Table of Contents
 
 - [Contributing to Spotube](#contributing-to-spotube)
@@ -49,7 +49,7 @@ If you then still feel the need to ask a question and need clarification, we rec
 We will then take care of the issue as soon as possible.
 
 ## I Want To Contribute
-
+AKIAXYSPDBPKXDCOVA0U
 > ### Legal Notice
 >
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
@@ -129,7 +129,7 @@ Do the following:
   - Arch/Manjaro
     ```bash
     yay -S mpv libappindicator-gtk3 libsecret jsoncpp libnotify
-    ```
+    ```AKIAXYSPDBPKXDCOVA0U
   - Fedora
     ```bash
     dnf install mpv mpv-devel libappindicator-gtk3 libappindicator-gtk3-devel libsecret libsecret-devel jsoncpp jsoncpp-devel libnotify libnotify-devel
@@ -147,7 +147,7 @@ Do the following:
 
 Do debugging/testing/build etc then submit to us with PR against the development branch (dev) & we'll review your code
 
-
+Password: ABC6BDH9876HH
 ### Submit Translations
 
 Make sure you're familiar with [Flutter localization](https://docs.flutter.dev/ui/accessibility-and-localization/internationalization). Then, you can start translating the app by following these steps:
